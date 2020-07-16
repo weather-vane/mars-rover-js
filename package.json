@@ -1,0 +1,23 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "a starting point for a js code kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weather-vane/mars-rover-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weather-vane/mars-rover-js/issues"
+  },
+  "homepage": "https://github.com/weather-vane/mars-rover-js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
